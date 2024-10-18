@@ -1,9 +1,9 @@
-## **GIT_SAMPLE** ##
+## ✅ **GIT_SAMPLE** ##
 
-## 설명
+## ✅ 설명
 - Git 명령어 테스트용
 
-## 명령어
+## ✅ 명령어
 초기
 git init
 git remote add origin https://github.com/moyanada/git_sample.git
